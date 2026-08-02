@@ -1,9 +1,16 @@
 [
   {
     "id": 1783599904480,
-    "title": "Шаг за шагом",
-    "audio": "https://excessive-apricot-2wgl3vdu.edgeone.dev/Шаг-за-шагом.mp3",
+    "title": "Ð¨Ð°Ð³ Ð·Ð° ÑÐ°Ð³Ð¾Ð¼",
+    "audio": "https://excessive-apricot-2wgl3vdu.edgeone.dev/Ð¨Ð°Ð³-Ð·Ð°-ÑÐ°Ð³Ð¾Ð¼.mp3",
     "duration": "2:15",
     "cover": "https://i.ibb.co/Lzs3FSSF/image.jpg"
+  },
+  {
+    "id": 1785662772298,
+    "title": "НЕ ИГРА",
+    "audio": "linear-purple-aehduiga.edgeone.dev",
+    "duration": "3:47",
+    "cover": "https://i.ibb.co/TDwyYfR2/1.png"
   }
 ]
